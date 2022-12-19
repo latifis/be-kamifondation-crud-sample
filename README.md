@@ -128,9 +128,9 @@ npx sequelize-cli db:migrate:undo:all
 
 ## Features Roadmap
 
-- [] Authentication
-- [] Authorization
-- [] Profile
+- [ ] Authentication
+- [ ] Authorization
+- [ ] Profile
 - [x] Vouchers
 
 <p align="right">(<a href="#top">back to table of contents</a>)</p>
